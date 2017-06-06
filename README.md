@@ -20,6 +20,8 @@ Though not a lot of apps are like this, the ‘event’ functionality of the Fac
 
 The MVP of the app is the functionality without the API’s. On this way the user can just fill in a place where he wants to go and subsequently other users can join him by clicking on the event. This way a user can register with an alert that asks for a username and password and uploads it to firebase. 
 
+![App Visualisation](https://user-images.githubusercontent.com/27211421/26836816-28d422d0-4adc-11e7-891a-1fa6813fbb72.JPG)
+
 
 
 Opening view with login
